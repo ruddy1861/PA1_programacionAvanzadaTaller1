@@ -1,0 +1,20 @@
+{
+  "name": "pa1_programacionavanzadataller1",
+  "version": "1.0.0",
+  "description": "![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)\r ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)\r ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)\r ***\r ## Temas\r * Arreglos\r * Arrays Metodos\r * Funciones\r * Callback  \r ***\r **Desarrollo de sofware CESDE**  \r *Programado por: Ruddy Rodriguez*",
+  "main": "punto1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruddy1861/PA1_programacionAvanzadaTaller1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruddy1861/PA1_programacionAvanzadaTaller1/issues"
+  },
+  "homepage": "https://github.com/ruddy1861/PA1_programacionAvanzadaTaller1#readme"
+}
